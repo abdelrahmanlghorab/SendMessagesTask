@@ -22,5 +22,5 @@ The best approach is to use **Laravel Queues** to process the messages in the ba
 
 ### **1️⃣ Clone the Project**
 ```bash
-git clone [YOUR_GITHUB_REPO_LINK].git
+git clone https://github.com/abdelrahmanlghorab/SendMessagesTask.git
 cd project-folder
